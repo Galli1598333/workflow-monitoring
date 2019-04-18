@@ -31,7 +31,7 @@ def lambda_handler(event, context):
                         "items": [
                         {
                             "simpleResponse": {
-                            "textToSpeech": "Here's what I got Gianluca"
+                            "textToSpeech": "Here's what I got"
                             }
                         },
                         {
